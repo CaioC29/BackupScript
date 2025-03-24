@@ -1,4 +1,4 @@
-# Script para Backup automáico
+# Script para Backup automático
 
 Script em `bat` para criar cópias das pastas `Downloads`, `Documentos` e `Imagens` de forma rápida
 
